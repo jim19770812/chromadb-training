@@ -1,0 +1,6 @@
+langchain
+chromadb
+modelscope
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2;platform_machine == 'x86_64'
+transformers
